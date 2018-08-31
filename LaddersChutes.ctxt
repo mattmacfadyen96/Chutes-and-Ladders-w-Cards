@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=start\ end
+comment0.target=LaddersChutes(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ LaddersChutes\r\n
+comment1.params=
+comment1.target=int\ getStart()
+comment2.params=
+comment2.target=int\ getEnd()
+comment3.params=
+comment3.target=boolean\ isChute()
+comment4.params=
+comment4.target=boolean\ isLadder()
+numComments=5

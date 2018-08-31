@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Main\ method\ for\ the\ Driver.\ \ This\ uses\ the\ same\ NewChutesAndLadders\ object\ to\r\n\ run\ simulations\ of\ different\ lengths.\ \ It\ also\ tests\ how\ long\ it\ takes\ to\r\n\ generate\ the\ output.\r\n\ \r\n\ @param\ \ \ args\ Command\ Line\ Arguments\r\n
+numComments=1
